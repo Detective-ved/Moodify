@@ -25,6 +25,7 @@ A simple and aesthetic Flutter app that lets users express and track their daily
 
 ## 📂 Project Structure
 lib/
+
 └── main.dart # Main application code
 
 ---
